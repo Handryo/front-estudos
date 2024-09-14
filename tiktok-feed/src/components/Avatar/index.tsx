@@ -28,6 +28,7 @@ function Avatar(props: AvatarProps){
                 />
             </div>
 
+           
             <div className='avatar_texts text-center justify-between'>
 
                 <div className='text_title'>
